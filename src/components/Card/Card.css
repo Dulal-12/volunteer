@@ -1,0 +1,25 @@
+.card{
+    height:315px;
+    width:270px;
+    border:1px solid green;
+    float:left;
+    margin:15px;
+    border-radius: 10px;
+}
+.card img{
+    width:270px;
+    height:270px;
+}
+#text p{
+    font-family:15px;
+    text-align: center;
+    color:white;
+    font-weight:900;
+}
+#text{
+    background-color:rgb(172, 255, 47);
+    border-radius: 5px;
+}
+.containt{
+    margin-top:500px;
+}
